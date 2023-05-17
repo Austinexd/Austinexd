@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Austinexd
 - 👀 I’m interested in Learning new Language
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning JavaScript, React, PhP, Laravel.
 - 💞️ I’m looking to collaborate for Begginers like me
 - 📫 How to reach me. github.com/austinexd
 
